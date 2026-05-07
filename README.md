@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="assets/FDM.jpg" alt="Francesco De Marco" width="160" height="160" style="border-radius: 50%;" />
-
-# Hi, I'm Francesco De Marco 👋
+# Hello, I'm Francesco De Marco 👋
 
 ### `Software Engineer`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=flat&logo=githubpages&logoColor=white)](https://franc-demarco.github.io/FDM-Site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/de-marco-francesco/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:franc.demarco99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?flat&logo=github&logoColor=white)](https://github.com/franc-demarco)
@@ -16,9 +13,23 @@
 
 ---
 
+## 🌐 Explore My Portfolio
+
+<div align="center">
+
+### _Curious about my work? Step into the full experience._
+
+**Discover more here** ⬇️
+
+[![Visit Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-1F6FEB?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0D1117)](https://franc-demarco.github.io/FDM-Site/)
+
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
-- 🛠️ &nbsp;Software engineer with hands-on experience building production software across **iOS** and enterprise **FileMaker** platforms
+- 🛠️ &nbsp;Software engineer with hands-on experience building production software across different platforms
 - 📦 &nbsp;Author of **[FMProKit](https://github.com/CoderlyStudio/FMProKit)** — an open-source Swift package bridging FileMaker and Swift, adopted across multiple projects (⭐ 45)
 
 ---
@@ -27,14 +38,39 @@
 
 <div align="center">
 
+**Languages**
+
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Platforms**
+
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white)
-![FileMaker](https://img.shields.io/badge/FileMaker-512BD4?style=for-the-badge&logo=claris&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FileMaker](https://img.shields.io/badge/FileMaker-512BD4?style=for-the-badge&logo=claris&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Productivity**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -110,17 +146,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Francesco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franc-demarco&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franc-demarco&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## 📫 Get in Touch
 
 <div align="center">
@@ -131,8 +156,6 @@
 [![LinkedIn](https://img.shields.io/badge/de--marco--francesco-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/de-marco-francesco/)
 [![GitHub](https://img.shields.io/badge/franc--demarco-24292F?style=flat&logo=github&logoColor=white)](https://github.com/franc-demarco)
 [![Location](https://img.shields.io/badge/Naples,_Italy_·_Remote-6e7681?style=flat&logo=googlemaps&logoColor=white)]()
-
-📄 [**Download Resume / CV**](assets/Francesco%20De%20Marco%20-%20Software%20Engineer%20-%20CV.pdf) &nbsp;·&nbsp; `PDF · ~101 KB`
 
 </div>
 
